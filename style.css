@@ -1,0 +1,23 @@
+.btn{
+width:200px;
+height:30px;
+background-color:#F08080;
+margin:15px;
+margin-left:50px;
+text-align:center;
+
+border:double 6px #DC143C;
+-webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
+.btn:hover{
+-moz-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+-o-transform:scale(1.2);
+-ms-transform:scale(1.2); 
+}
+a{
+text-decoration:none;
+color:#8B3A3A;
+font-size:14pt;
+}
