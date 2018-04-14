@@ -753,15 +753,15 @@ p.counter {
 }
 .right-agile p a:link{
 	color: black;
-	text-decoration:underline;
+	text-decoration:none;
 }
 .right-agile p a:visited{
 	color: #363636;
-	text-decoration:underline;
+	text-decoration:none;
 }
 .right-agile p a:hover{
 	color: blue;
-	text-decoration:none;
+	text-decoration:underline;
 }
 .buttons {
     text-align: center;
