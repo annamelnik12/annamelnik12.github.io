@@ -761,7 +761,7 @@ p.counter {
 }
 .right-agile p a:hover{
 	color: blue;
-	text-decoration:underline;
+	text-decoration:none;
 }
 .buttons {
     text-align: center;
