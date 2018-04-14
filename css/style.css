@@ -750,6 +750,8 @@ p.counter {
     line-height: 1.5em;
 	color: black;
     font-family: 'Arial', sans-serif;
+	text-decoration:none;
+}
 }
 .right-agile p a:link{
 	color: black;
