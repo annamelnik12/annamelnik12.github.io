@@ -749,7 +749,7 @@ p.counter {
     font-size: 1.8em;
     line-height: 1.5em;
 	color: black;
-    font-family: 'Arial', cursive;
+    font-family: 'Arial', sans-serif;
 }
 .right-agile p a:link{
 	color: black;
